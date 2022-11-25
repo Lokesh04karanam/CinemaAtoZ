@@ -1,0 +1,62 @@
+Cinema A to Z
+
+Team SSK
+1)Karanam Lokesh-HTML pages and django
+2)Thota Lakshmi Teja-user sigin,signout and signup
+3)Addanki Sanjeev varma-scraping and uploading to the django database
+
+the commands to start the server are
+	$source myproject/bin/activate
+	$python3 manage.py runserver
+	
+the home page is on http://127.0.0.1:8000/home
+all the files are in home folder in CinemaAtoZ
+
+models.py contains the databases required for the server like all the movies and the personal preferences of the users
+urls.py is used for the appropriate directing of the requests to the functions in views.py
+views.py handle the requests from the interface and proceed according to the functions in it.
+
+the folder templates contain the html files to be used accordingly.
+The folder Static contains the css and images file which are to be included in the fHTML files in temlates folder.
+
+ the admin portal use the link http://127.0.0.1:8000/admin
+ and the admin username is loki and password is Loki@8179
+ 
+ each database in the models.py have the data of Title,Rating,Cast,Plot,Similar Movies,Language,Genre,Year of release,User reviews, Certification and Platform.
+ 
+ views.py has the following functions 
+ 1)index:
+ 	this function is for the home page of the website, in this function it gives the movies from the Members database and by using index.html
+ 2)watched:
+ 	this function is for the movies watched by the user using the watched database by using watched.html
+ 3)favourites:
+ 	this function is used for the movies liked by the user using the favorite database and hosting it by favourites.html
+ 4)wishlist:
+ 	this function is used for the movies to be watched by the user using the wishlist database and hosting it by wish.html
+ 5)watch:
+ 	this functions is used to add a movie in the Members to the watched database
+ 6)wish:
+ 	this is used to add a movie to wishlist database from the Members database
+ 7)like:
+ 	this is used to add a movie to favorite database from members database
+ 8)dele:
+ 	this function is used to delete a movie from the wishlist of the user
+ 9)watch1 is similar to watch function but the movie is adding from wishlist of the user
+ 10)like1 is similar to like function but the movie is from wishlist of the user
+ 11)delete2 is used to remove movie from the watched list of the user
+ 12)like2 is similar to like1 function but the movie is adding from watched list of the user
+ 13)deletef is used to delete movies from favorites of the user
+ 14)search:
+ 	the word to be searched is compared to every movie in the Members Database and presents it if the movie is found.Every time the function is used ,it first clears the data from the previous search to remove any errors.
+ 15)signin, signup and signout are functions used when the user tries to login or create a user or signing out frm the website according to the responses from the html pages.
+ 
+ The pictures are in the img folde within the static folder
+ 
+ The data for the website is obtained by scraping the respective websites and files used are
+ IMDBtop250posters.py,Metascore.py,Scrap.py
+ Top250Plot.py
+ 
+ for uploading the data from the scraped data we use the code from the file upload.py
+ the process for uploadin data is 
+ 	$python3 manage.py shell
+ and then use corresponding codes from the file upload .py to upload to the database
