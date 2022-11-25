@@ -1,0 +1,252 @@
+movie_title,year,IMDb,Certificate,Runtime,star_cast,Genre
+The Shawshank Redemption,1994,9.3,R,142 min,Frank Darabont, Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler,Drama
+The Godfather,1972,9.2,R,175 min,Francis Ford Coppola, Marlon Brando, Al Pacino, James Caan, Diane Keaton,Crime, Drama  
+The Dark Knight,2008,9,PG-13,152 min,Christopher Nolan, Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,Action, Crime, Drama            
+The Godfather Part II,1974,9,R,202 min,Francis Ford Coppola, Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton,Crime, Drama            
+The Lord of the Rings: The Return of the King,2003,9,PG-13,201 min,Peter Jackson, Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom,Action, Adventure, Drama            
+Pulp Fiction,1994,8.9,R,154 min,Quentin Tarantino, John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis,Crime, Drama            
+Fight Club,1999,8.8,R,139 min,David Fincher, Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier,Drama            
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,PG-13,178 min,Peter Jackson, Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean,Action, Adventure, Drama            
+Inception,2010,8.8,PG-13,148 min,Christopher Nolan, Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe,Action, Adventure, Sci-Fi            
+Forrest Gump,1994,8.8,PG-13,142 min,Robert Zemeckis, Tom Hanks, Robin Wright, Gary Sinise, Sally Field,Drama, Romance            
+The Lord of the Rings: The Two Towers,2002,8.8,PG-13,179 min,Peter Jackson, Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom,Action, Adventure, Drama            
+Goodfellas,1990,8.7,R,145 min,Martin Scorsese, Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco,Biography, Crime, Drama            
+The Matrix,1999,8.7,R,136 min,Lana Wachowski, Lilly Wachowski, Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving,Action, Sci-Fi            
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,PG,124 min,Irvin Kershner, Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams,Action, Adventure, Fantasy            
+Se7en,1995,8.6,R,127 min,David Fincher, Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker,Crime, Drama, Mystery            
+Saving Private Ryan,1998,8.6,R,169 min,Steven Spielberg, Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns,Drama, War            
+The Green Mile,1999,8.6,R,189 min,Frank Darabont, Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt,Crime, Drama, Fantasy            
+Star Wars: Episode IV - A New Hope,1977,8.6,PG,121 min,George Lucas, Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness,Action, Adventure, Fantasy            
+Terminator 2: Judgment Day,1991,8.6,R,137 min,James Cameron, Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick,Action, Sci-Fi            
+Back to the Future,1985,8.5,PG,116 min,Robert Zemeckis, Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover,Adventure, Comedy, Sci-Fi            
+Gladiator,2000,8.5,R,155 min,Ridley Scott, Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed,Action, Adventure, Drama            
+The Departed,2006,8.5,R,151 min,Martin Scorsese, Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg,Crime, Drama, Thriller            
+Alien,1979,8.5,R,117 min,Ridley Scott, Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright,Horror, Sci-Fi            
+The Prestige,2006,8.5,PG-13,130 min,Christopher Nolan, Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine,Drama, Mystery, Sci-Fi            
+The Lion King,1994,8.5,G,88 min,Roger Allers, Rob Minkoff, Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg,Animation, Adventure, Drama            
+The Pianist,2002,8.5,R,150 min,Roman Polanski, Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox,Biography, Drama, Music            
+American History X,1998,8.5,R,119 min,Tony Kaye, Edward Norton, Edward Furlong, Beverly DAngelo, Jennifer Lien,Crime, Drama            
+Braveheart,1995,8.4,R,178 min,Mel Gibson, Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen,Biography, Drama, History            
+Memento,2000,8.4,R,113 min,Christopher Nolan, Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior,Mystery, Thriller            
+Aliens,1986,8.4,R,137 min,James Cameron, Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser,Action, Adventure, Sci-Fi            
+Inglourious Basterds,2009,8.3,R,153 min,Quentin Tarantino, Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent,Adventure, Drama, War            
+Good Will Hunting,1997,8.3,R,126 min,Gus Van Sant, Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård,Drama, Romance            
+Requiem for a Dream,2000,8.3,R,102 min,Darren Aronofsky, Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans,Drama            
+A Clockwork Orange,1971,8.3,R,136 min,Stanley Kubrick, Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke,Crime, Sci-Fi            
+Heat,1995,8.3,R,170 min,Michael Mann, Al Pacino, Robert De Niro, Val Kilmer, Jon Voight,Action, Crime, Drama            
+Reservoir Dogs,1992,8.3,R,99 min,Quentin Tarantino, Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn,Crime, Thriller            
+Scarface,1983,8.3,R,170 min,Brian De Palma, Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio,Crime, Drama            
+2001: A Space Odyssey,1968,8.3,G,149 min,Stanley Kubrick, Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter,Adventure, Sci-Fi            
+Toy Story,1995,8.3,G,81 min,John Lasseter, Tom Hanks, Tim Allen, Don Rickles, Jim Varney,Animation, Adventure, Comedy            
+Amélie,2001,8.3,R,122 min,Jean-Pierre Jeunet, Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta,Comedy, Romance            
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,PG,131 min,Richard Marquand, Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams,Action, Adventure, Fantasy            
+Shutter Island,2010,8.2,R,138 min,Martin Scorsese, Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley,Mystery, Thriller            
+No Country for Old Men,2007,8.2,R,122 min,Ethan Coen, Joel Coen, Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson,Crime, Drama, Thriller            
+Jurassic Park,1993,8.2,PG-13,127 min,Steven Spielberg, Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough,Action, Adventure, Sci-Fi            
+Die Hard,1988,8.2,R,132 min,John McTiernan, Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson,Action, Thriller            
+V for Vendetta,2005,8.2,R,132 min,James McTeigue, Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea,Action, Drama, Sci-Fi            
+Kill Bill: Vol 1,2003,8.2,R,111 min,Quentin Tarantino, Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen,Action, Crime, Drama            
+Batman Begins,2005,8.2,PG-13,140 min,Christopher Nolan, Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson,Action, Crime, Drama            
+Snatch,2000,8.2,R,102 min,Guy Ritchie, Jason Statham, Brad Pitt, Stephen Graham, Vinnie Jones,Comedy, Crime            
+The Thing,1982,8.2,R,109 min,John Carpenter, Kurt Russell, Wilford Brimley, Keith David, Richard Masur,Horror, Mystery, Sci-Fi            
+The Sixth Sense,1999,8.2,PG-13,107 min,M. Night Shyamalan, Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams,Drama, Mystery, Thriller            
+Downfall,2004,8.2,R,156 min,Oliver Hirschbiegel, Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler,Biography, Drama, History            
+Finding Nemo,2003,8.2,G,100 min,Andrew Stanton, Lee Unkrich, Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe,Animation, Adventure, Comedy            
+Gone with the Wind,1939,8.2,Passed,238 min,Victor Fleming, George Cukor, Sam Wood, Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara ONeil,Drama, Romance, War            
+Monty Python and the Holy Grail,1975,8.2,PG,91 min,Terry Gilliam, Terry Jones, Graham Chapman, John Cleese, Eric Idle, Terry Gilliam,Adventure, Comedy, Fantasy            
+The Walking Dead (201,2010–2022,8.1,TV-MA,44 min,Andrew Lincoln, Norman Reedus, Melissa McBride, Lauren Cohan,Drama, Horror, Thriller            
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,PG-13,143 min,Gore Verbinski, Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley,Action, Adventure, Fantasy            
+The Exorcist,1973,8.1,R,122 min,William Friedkin, Ellen Burstyn, Max von Sydow, Linda Blair, Lee J. Cobb,Horror            
+The Terminator,1984,8.1,R,107 min,James Cameron, Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield,Action, Sci-Fi            
+The Big Lebowski,1998,8.1,R,117 min,Joel Coen, Ethan Coen, Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi,Comedy, Crime            
+Catch Me If You Can,2002,8.1,PG-13,141 min,Steven Spielberg, Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen,Biography, Crime, Drama            
+Jaws,1975,8.1,PG,124 min,Steven Spielberg, Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary,Adventure, Thriller            
+Rocky,1976,8.1,PG,120 min,John G. Avildsen, Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers,Drama, Sport            
+Into the Wild,2007,8.1,R,148 min,Sean Penn, Emile Hirsch, Vince Vaughn, Catherine Keener, Marcia Gay Harden,Adventure, Biography, Drama            
+Million Dollar Baby,2004,8.1,PG-13,132 min,Clint Eastwood, Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel,Drama, Sport            
+Gandhi,1982,8.1,PG,191 min,Richard Attenborough, Ben Kingsley, John Gielgud, Rohini Hattangadi, Roshan Seth,Biography, Drama            
+Hotel Rwanda,2004,8.1,PG-13,121 min,Terry George, Don Cheadle, Sophie Okonedo, Joaquin Phoenix, Xolani Mali,Biography, Drama, History            
+Black Swan,2010,8,R,108 min,Darren Aronofsky, Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder,Drama, Thriller            
+Donnie Darko,2001,8,R,113 min,Richard Kelly, Jake Gyllenhaal, Jena Malone, Mary McDonnell, Holmes Osborne,Drama, Mystery, Sci-Fi            
+Casino Royale,2006,8,PG-13,144 min,Martin Campbell, Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright,Action, Adventure, Thriller            
+Sin City,2005,8,R,124 min,Frank Miller, Quentin Tarantino, Robert Rodriguez, Mickey Rourke, Clive Owen, Bruce Willis, Jessica Alba,Crime, Thriller            
+Planet of the Apes,1968,8,G,112 min,Franklin J. Schaffner, Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans,Adventure, Sci-Fi            
+Kill Bill: Vol 2,2004,8,R,137 min,Quentin Tarantino, Uma Thurman, David Carradine, Michael Madsen, Daryl Hannah,Action, Crime, Thriller            
+Beauty and the Beast,1991,8,G,84 min,Gary Trousdale, Kirk Wise, Paige OHara, Robby Benson, Jesse Corti, Rex Everhart,Animation, Family, Fantasy            
+12 Monkeys,1995,8,R,129 min,Terry Gilliam, Bruce Willis, Madeleine Stowe, Brad Pitt, Joseph Melito,Mystery, Sci-Fi, Thriller            
+Big Fish,2003,8,PG-13,125 min,Tim Burton, Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange,Adventure, Drama, Fantasy            
+Life of Brian,1979,8,R,94 min,Terry Jones, Graham Chapman, John Cleese, Michael Palin, Terry Gilliam,Comedy            
+Titanic,1997,7.9,PG-13,194 min,James Cameron, Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates,Drama, Romance            
+The Nightmare Before Christmas,1993,7.9,PG,76 min,Henry Selick, Danny Elfman, Chris Sarandon, Catherine OHara, William Hickey,Animation, Family, Fantasy            
+Harry Potter and the Prisoner of Azkaban,2004,7.9,PG,142 min,Alfonso Cuarón, Daniel Radcliffe, Emma Watson, Rupert Grint, Richard Griffiths,Adventure, Family, Fantasy            
+Iron Man,2008,7.9,PG-13,126 min,Jon Favreau, Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges,Action, Adventure, Sci-Fi            
+ET the Extra-Terrestrial,1982,7.9,PG,115 min,Steven Spielberg, Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace,Adventure, Family, Sci-Fi            
+Shrek,2001,7.9,PG,90 min,Andrew Adamson, Vicky Jenson, Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow,Animation, Adventure, Comedy            
+Edward Scissorhands,1990,7.9,PG-13,105 min,Tim Burton, Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall,Drama, Fantasy, Romance            
+Mystic River,2003,7.9,R,138 min,Clint Eastwood, Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum,Crime, Drama, Mystery            
+Let the Right One In,2008,7.9,R,114 min,Tomas Alfredson, Kåre Hedebrant, Lina Leandersson, Per Ragnar, Henrik Dahl,Drama, Fantasy, Horror            
+Shaun of the Dead,2004,7.9,R,99 min,Edgar Wright, Simon Pegg, Nick Frost, Kate Ashfield, Lucy Davis,Comedy, Horror            
+The Bourne Identity,2002,7.9,PG-13,119 min,Doug Liman, Franka Potente, Matt Damon, Chris Cooper, Clive Owen,Action, Mystery, Thriller            
+District 9,2009,7.9,R,112 min,Neill Blomkamp, Sharlto Copley, David James, Jason Cope, Nathalie Boltt,Action, Sci-Fi, Thriller            
+The Untouchables,1987,7.9,R,119 min,Brian De Palma, Kevin Costner, Sean Connery, Robert De Niro, Charles Martin Smith,Crime, Drama, Thriller            
+The Wrestler,2008,7.9,R,109 min,Darren Aronofsky, Mickey Rourke, Marisa Tomei, Evan Rachel Wood, Mark Margolis,Drama, Sport            
+Toy Story 2,1999,7.9,G,92 min,John Lasseter, Ash Brannon, Lee Unkrich, Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer,Animation, Adventure, Comedy            
+Avatar,2009,7.8,PG-13,162 min,James Cameron, Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez,Action, Adventure, Fantasy            
+Ghostbusters,1984,7.8,PG,105 min,Ivan Reitman, Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis,Action, Comedy, Fantasy            
+The Social Network,2010,7.8,PG-13,120 min,David Fincher, Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Rooney Mara,Biography, Drama            
+Predator,1987,7.8,R,107 min,John McTiernan, Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall, Elpidia Carrillo,Action, Adventure, Horror            
+The Curious Case of Benjamin Button,2008,7.8,PG-13,166 min,David Fincher, Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond,Drama, Fantasy, Romance            
+Remember the Titans,2000,7.8,PG,113 min,Boaz Yakin, Denzel Washington, Will Patton, Wood Harris, Ryan Hurst,Biography, Drama, Sport            
+Hot Fuzz,2007,7.8,R,121 min,Edgar Wright, Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy,Action, Comedy, Mystery            
+ Mary Poppins,1964,7.8,G,139 min,Robert Stevenson, Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns,Comedy, Family, Fantasy            
+The Last Samurai,2003,7.8,R,154 min,Edward Zwick, Tom Cruise, Ken Watanabe, Billy Connolly, William Atherton,Action, Drama            
+Dawn of the Dead,1978,7.8,Unrated,127 min,George A. Romero, David Emge, Ken Foree, Scott H. Reiniger, Gaylen Ross,Horror, Thriller            
+Night of the Living Dead,1968,7.8,Not Rated,96 min,George A. Romero, Duane Jones, Judith ODea, Karl Hardman, Marilyn Eastman,Horror, Thriller            
+Home Alone,1990,7.7,PG,103 min,Chris Columbus, Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard,Comedy, Family            
+Harry Potter and the Goblet of Fire,2005,7.7,PG-13,157 min,Mike Newell, Daniel Radcliffe, Emma Watson, Rupert Grint, Eric Sykes,Adventure, Family, Fantasy            
+Oceans Eleven,2001,7.7,PG-13,116 min,Steven Soderbergh, George Clooney, Brad Pitt, Julia Roberts, Matt Damon,Crime, Thriller            
+Halloween,1978,7.7,R,91 min,John Carpenter, Donald Pleasence, Jamie Lee Curtis, Tony Moran, Nancy Kyes,Horror, Thriller            
+The Hangover,2009,7.7,R,100 min,Todd Phillips, Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms,Comedy            
+Harry Potter and the Deathly Hallows: Part 1,2010,7.7,PG-13,146 min,David Yates, Daniel Radcliffe, Emma Watson, Rupert Grint, Bill Nighy,Adventure, Family, Fantasy            
+The Last of the Mohicans,1992,7.7,R,112 min,Michael Mann, Daniel Day-Lewis, Madeleine Stowe, Russell Means, Eric Schweig,Action, Adventure, Drama            
+Man on Fire,2004,7.7,R,146 min,Tony Scott, Denzel Washington, Christopher Walken, Dakota Fanning, Radha Mitchell,Action, Crime, Drama            
+Training Day,2001,7.7,R,122 min,Antoine Fuqua, Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger,Action, Crime, Drama            
+Zodiac,2007,7.7,R,157 min,David Fincher, Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo, Anthony Edwards,Crime, Drama, Mystery            
+Black Hawk Down,2001,7.7,R,144 min,Ridley Scott, Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana,Action, Drama, History            
+Apollo 13 (I),I,7.7,PG,140 min,Ron Howard, Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise,Adventure, Drama, History            
+ The Boy in the Striped Pajamas,2008,7.7,PG-13,94 min,Mark Herman, Asa Butterfield, David Thewlis, Rupert Friend, Zac Mattoon OBrien,Drama, War            
+ The Longest Day,1962,7.7,G,178 min,Ken Annakin, Andrew Marton, Gerd Oswald, Bernhard Wicki, Darryl F. Zanuck, John Wayne, Robert Ryan, Richard Burton, Henry Fonda,Action, Drama, History            
+ Clerks,1994,7.7,R,92 min,Kevin Smith, Brian OHalloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer,Comedy            
+ Donnie Brasco,1997,7.7,R,127 min,Mike Newell, Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby,Biography, Crime, Drama            
+ Goldfinger,1964,7.7,PG,110 min,Guy Hamilton, Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton,Action, Adventure, Thriller            
+ The Bourne Supremacy,2004,7.7,PG-13,108 min,Paul Greengrass, Matt Damon, Franka Potente, Joan Allen, Brian Cox,Action, Mystery, Thriller            
+ Evil Dead II,1987,7.7,R,84 min,Sam Raimi, Bruce Campbell, Sarah Berry, Dan Hicks, Kassie Wesley DePaiva,Comedy, Horror            
+ Finding Neverland,2004,7.7,PG,106 min,Marc Forster, Johnny Depp, Kate Winslet, Julie Christie, Radha Mitchell,Biography, Drama, Family            
+ Black Book,2006,7.7,R,145 min,Paul Verhoeven, Carice van Houten, Sebastian Koch, Thom Hoffman, Halina Reijn,Drama, Thriller, War            
+ South Park: Bigger, Longer & Uncut,1999,7.7,R,81 min,Trey Parker, Trey Parker, Matt Stone, Mary Kay Bergman, Isaac Hayes,Animation, Comedy, Fantasy            
+ Good Bye Lenin!,2003,7.7,R,121 min,Wolfgang Becker, Daniel Brühl, Katrin Sass, Chulpan Khamatova, Florian Lukas,Comedy, Drama, Romance            
+ Harry Potter and the Sorcerers Stone,2001,7.6,PG,152 min,Chris Columbus, Daniel Radcliffe, Rupert Grint, Richard Harris, Maggie Smith,Adventure, Family, Fantasy            
+ American Psycho,2000,7.6,R,102 min,Mary Harron, Christian Bale, Justin Theroux, Josh Lucas, Bill Sage,Crime, Drama, Horror            
+ Love Actually,2003,7.6,R,135 min,Richard Curtis, Hugh Grant, Martine McCutcheon, Liam Neeson, Laura Linney,Comedy, Drama, Romance            
+ 300,2006,7.6,R,117 min,Zack Snyder, Gerard Butler, Lena Headey, David Wenham, Dominic West,Action, Drama            
+ Sherlock Holmes,2009,7.6,PG-13,128 min,Guy Ritchie, Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong,Action, Adventure, Mystery            
+ Inside Man,2006,7.6,R,129 min,Spike Lee, Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer,Crime, Drama, Mystery            
+ Kick-Ass,2010,7.6,R,117 min,Matthew Vaughn, Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz, Garrett M. Brown,Action, Comedy, Crime            
+ Watchmen,2009,7.6,R,162 min,Zack Snyder, Jackie Earle Haley, Patrick Wilson, Carla Gugino, Malin Akerman,Action, Drama, Mystery            
+ Stardust,2007,7.6,PG-13,127 min,Matthew Vaughn, Charlie Cox, Claire Danes, Sienna Miller, Ian McKellen,Adventure, Family, Fantasy            
+ Superbad,2007,7.6,R,113 min,Greg Mottola, Michael Cera, Jonah Hill, Christopher Mintz-Plasse, Bill Hader,Comedy            
+ Harry Potter and the Half-Blood Prince,2009,7.6,PG,153 min,David Yates, Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon,Action, Adventure, Family            
+ Saw,2004,7.6,R,103 min,James Wan, Cary Elwes, Leigh Whannell, Danny Glover, Ken Leung,Horror, Mystery, Thriller            
+ The Butterfly Effect,2004,7.6,R,113 min,Eric Bress, J. Mackye Gruber, Ashton Kutcher, Amy Smart, Melora Walters, Elden Henson,Drama, Sci-Fi, Thriller            
+ Moulin Rouge!,2001,7.6,PG-13,127 min,Baz Luhrmann, Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent,Drama, Musical, Romance            
+ RoboCop,1987,7.6,R,102 min,Paul Verhoeven, Peter Weller, Nancy Allen, Dan OHerlihy, Ronny Cox,Action, Crime, Sci-Fi            
+ The Godfather Part III,1990,7.6,R,162 min,Francis Ford Coppola, Al Pacino, Diane Keaton, Andy Garcia, Talia Shire,Crime, Drama            
+ Star Wars: Episode III - Revenge of the Sith,2005,7.6,PG-13,140 min,George Lucas, Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L. Jackson,Action, Adventure, Fantasy            
+ The Royal Tenenbaums,2001,7.6,R,110 min,Wes Anderson, Gene Hackman, Gwyneth Paltrow, Anjelica Huston, Ben Stiller,Comedy, Drama            
+ Zombieland,2009,7.6,R,88 min,Ruben Fleischer, Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin,Action, Comedy, Horror            
+ Mulan,1998,7.6,G,88 min,Tony Bancroft, Barry Cook, Ming-Na Wen, Eddie Murphy, BD Wong, Miguel Ferrer,Animation, Adventure, Comedy            
+ The Others,2001,7.6,PG-13,104 min,Alejandro Amenábar, Nicole Kidman, Christopher Eccleston, Fionnula Flanagan, Alakina Mann,Horror, Mystery, Thriller            
+ The Naked Gun: From the Files of Police Squad!,1988,7.6,PG-13,85 min,David Zucker, Leslie Nielsen, Priscilla Presley, O.J. Simpson, Ricardo Montalban,Comedy, Crime            
+ Lethal Weapon,1987,7.6,R,109 min,Richard Donner, Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan,Action, Crime, Thriller            
+ Escape from Alcatraz,1979,7.6,PG,112 min,Don Siegel, Clint Eastwood, Patrick McGoohan, Roberts Blossom, Jack Thibeau,Action, Biography, Crime            
+ Lord of War,2005,7.6,R,122 min,Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto, Bridget Moynahan,Crime, Drama            
+ The Illusionist,2006,7.6,PG-13,110 min,Neil Burger, Edward Norton, Jessica Biel, Paul Giamatti, Rufus Sewell,Drama, Fantasy, Mystery            
+ Die Hard with a Vengeance,1995,7.6,R,128 min,John McTiernan, Bruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene,Action, Adventure, Thriller            
+ The Road Warrior,1981,7.6,R,96 min,George Miller, Mel Gibson, Bruce Spence, Michael Preston, Max Phipps,Action, Adventure, Sci-Fi            
+ Enter the Dragon,1973,7.6,R,102 min,Robert Clouse, Bruce Lee, John Saxon, Jim Kelly, Ahna Capri,Action, Crime, Drama            
+ Harry Potter and the Order of the Phoenix,2007,7.5,PG-13,138 min,David Yates, Daniel Radcliffe, Emma Watson, Rupert Grint, Brendan Gleeson,Action, Adventure, Family            
+ The Devils Advocate,1997,7.5,R,144 min,Taylor Hackford, Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones,Drama, Mystery, Thriller            
+ 28 Days Later,2002,7.5,R,113 min,Danny Boyle, Cillian Murphy, Naomie Harris, Christopher Eccleston, Alex Palmer,Drama, Horror, Sci-Fi            
+ Batman,1989,7.5,PG-13,126 min,Tim Burton, Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl,Action, Adventure            
+ Scott Pilgrim vs the World,2010,7.5,PG-13,112 min,Edgar Wright, Michael Cera, Mary Elizabeth Winstead, Kieran Culkin, Anna Kendrick,Action, Comedy, Fantasy            
+ Collateral,2004,7.5,R,120 min,Michael Mann, Tom Cruise, Jamie Foxx, Jada Pinkett Smith, Mark Ruffalo,Action, Crime, Drama            
+ Jackie Brown,1997,7.5,R,154 min,Quentin Tarantino, Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda,Crime, Drama, Thriller            
+ Gangs of New York,2002,7.5,R,167 min,Martin Scorsese, Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent,Crime, Drama            
+ Juno,2007,7.5,PG-13,96 min,Jason Reitman, Elliot Page, Michael Cera, Jennifer Garner, Jason Bateman,Comedy, Drama            
+ Total Recall,1990,7.5,R,113 min,Paul Verhoeven, Arnold Schwarzenegger, Sharon Stone, Michael Ironside, Rachel Ticotin,Action, Adventure, Sci-Fi            
+ Perfume: The Story of a Murderer,2006,7.5,R,147 min,Tom Tykwer, Ben Whishaw, Dustin Hoffman, Alan Rickman, Francesc Albiol,Crime, Drama, Fantasy            
+ Ice Age,2002,7.5,PG,81 min,Chris Wedge, Carlos Saldanha, Denis Leary, John Leguizamo, Ray Romano, Goran Visnjic,Animation, Adventure, Comedy            
+ The Aviator,2004,7.5,PG-13,170 min,Martin Scorsese, Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly,Biography, Drama            
+ Blow,2001,7.5,R,124 min,Ted Demme, Johnny Depp, Penélope Cruz, Franka Potente, Rachel Griffiths,Biography, Crime, Drama            
+ Munich,2005,7.5,R,164 min,Steven Spielberg, Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds,Action, Drama, History            
+ The Abyss,1989,7.5,PG-13,140 min,James Cameron, Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester,Adventure, Drama, Mystery            
+ Grindhouse,2007,7.5,R,191 min,Robert Rodriguez, Eli Roth, Quentin Tarantino, Edgar Wright, Rob Zombie, Kurt Russell, Rose McGowan, Danny Trejo, Zoë Bell,Action, Horror, Thriller            
+ Babel (I),I,7.5,R,143 min,Alejandro G. Iñárritu, Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam,Drama            
+ Pinocchio,1940,7.5,G,88 min,Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen, Dickie Jones, Christian Rub, Mel Blanc, Billy Bletcher,Animation, Adventure,Comedy            
+ Dead Alive,1992,7.5,R,104 min,Peter Jackson, Timothy Balme, Diana Peñalver, Elizabeth Moody, Ian Watkin,Comedy, Fantasy, Horror            
+ Show Me Love,1998,7.5,Not Rated,89 min,Lukas Moodysson, Alexandra Dahlström, Rebecka Liljeberg, Erica Carlson, Mathias Rust,Comedy, Drama, Romance            
+ The Terminal,2004,7.4,PG-13,128 min,Steven Spielberg, Tom Hanks, Catherine Zeta-Jones, Chi McBride, Stanley Tucci,Comedy, Drama, Romance            
+ Spider-Man,2002,7.4,PG-13,121 min,Sam Raimi, Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco,Action, Adventure, Sci-Fi            
+ Harry Potter and the Chamber of Secrets,2002,7.4,PG,161 min,Chris Columbus, Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris,Adventure, Family, Fantasy            
+ Scream,1996,7.4,R,111 min,Wes Craven, Neve Campbell, Courteney Cox, David Arquette, Skeet Ulrich,Horror, Mystery            
+ Spider-Man 2,2004,7.4,PG-13,127 min,Sam Raimi, Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco,Action, Adventure, Sci-Fi            
+ The Evil Dead,1981,7.4,NC-17,85 min,Sam Raimi, Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker,Horror            
+ The Texas Chain Saw Massacre,1974,7.4,R,83 min,Tobe Hooper, Marilyn Burns, Edwin Neal, Allen Danziger, Paul A. Partain,Horror            
+ Superman,1978,7.4,PG,143 min,Richard Donner, Christopher Reeve, Margot Kidder, Gene Hackman, Marlon Brando,Action, Adventure, Sci-Fi            
+ Law Abiding Citizen,2009,7.4,R,109 min,F. Gary Gray, Gerard Butler, Jamie Foxx, Leslie Bibb, Colm Meaney,Action, Crime, Drama            
+ X2: X-Men United,2003,7.4,PG-13,134 min,Bryan Singer, Patrick Stewart, Hugh Jackman, Halle Berry, Ian McKellen,Action, Adventure, Sci-Fi            
+ Army of Darkness,1992,7.4,R,81 min,Sam Raimi, Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie,Comedy, Horror            
+ Back to the Future Part III,1990,7.4,PG,118 min,Robert Zemeckis, Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Tom Wilson,Adventure, Comedy, Sci-Fi            
+ REC,2007,7.4,R,78 min,Jaume Balagueró, Paco Plaza, Manuela Velasco, Ferran Terraza, Jorge-Yamam Serrano, Pablo Rosso,Horror, Mystery, Thriller            
+ Green Street Hooligans,2005,7.4,R,109 min,Lexi Alexander, Elijah Wood, Charlie Hunnam, Claire Forlani, Marc Warren,Crime, Drama, Sport            
+ The Bucket List,2007,7.4,PG-13,97 min,Rob Reiner, Jack Nicholson, Morgan Freeman, Sean Hayes, Beverly Todd,Adventure, Comedy, Drama            
+ The Orphanage,2007,7.4,R,105 min,J.A. Bayona, Belén Rueda, Fernando Cayo, Roger Príncep, Mabel Rivera,Drama, Horror, Mystery            
+ Alice in Wonderland,1951,7.4,G,75 min,Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Kinney, Kathryn Beaumont, Ed Wynn, Richard Haydn, Sterling Holloway,Animation, Adventure, Comedy            
+ Black Dynamite,2009,7.4,R,84 min,Scott Sanders, Michael Jai White, Arsenio Hall, Tommy Davidson, Phyllis Applegate,Action, Comedy            
+ Starship Troopers,1997,7.3,R,129 min,Paul Verhoeven, Casper Van Dien, Denise Richards, Dina Meyer, Jake Busey,Action, Adventure, Sci-Fi            
+ Troy,2004,7.3,R,163 min,Wolfgang Petersen, Brad Pitt, Eric Bana, Orlando Bloom, Julian Glover,Drama, History            
+ Beverly Hills Cop,1984,7.3,R,105 min,Martin Brest, Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher,Action, Comedy, Crime            
+ Gremlins,1984,7.3,PG,106 min,Joe Dante, Zach Galligan, Phoebe Cates, Hoyt Axton, John Louie,Comedy, Fantasy, Horror            
+ X-Men,2000,7.3,PG-13,104 min,Bryan Singer, Patrick Stewart, Hugh Jackman, Ian McKellen, Famke Janssen,Action, Adventure, Sci-Fi            
+ Dawn of the Dead,2004,7.3,R,101 min,Zack Snyder, Sarah Polley, Ving Rhames, Mekhi Phifer, Jake Weber,Action, Horror            
+True Lies,1994,7.3,R,141 min,James Cameron, Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton,Action, Comedy, Thriller            
+Men in Black,1997,7.3,PG-13,98 min,Barry Sonnenfeld, Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent DOnofrio,Action, Adventure, Comedy            
+Monster,2003,7.3,R,109 min,Patty Jenkins, Charlize Theron, Christina Ricci, Bruce Dern, Lee Tergesen,Biography, Crime, Drama            
+Corpse Bride,2005,7.3,PG,77 min,Tim Burton, Mike Johnson, Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman,Animation, Drama, Family            
+Dogma,1999,7.3,R,130 min,Kevin Smith, Ben Affleck, Matt Damon, Linda Fiorentino, Bud Cort,Adventure, Comedy, Drama            
+Speed,1994,7.3,R,116 min,Jan de Bont, Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton,Action, Adventure, Thriller            
+Dumb and Dumber,1994,7.3,PG-13,107 min,Peter Farrelly, Bobby Farrelly, Jim Carrey, Jeff Daniels, Lauren Holly, Mike Starr,Comedy            
+Pirates of the Caribbean: Dead Mans Chest,2006,7.3,PG-13,151 min,Gore Verbinski, Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport,Action, Adventure, Fantasy            
+Shrek 2,2004,7.3,PG,93 min,Andrew Adamson, Kelly Asbury, Conrad Vernon, Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews,Animation, Adventure, Comedy            
+Sweeney Todd: The Demon Barber of Fleet Street,2007,7.3,R,116 min,Tim Burton, Johnny Depp, Helena Bonham Carter, Alan Rickman, Timothy Spall,Drama, Horror, Musical            
+ Memoirs of a Geisha,2005,7.3,PG-13,145 min,Rob Marshall, Ziyi Zhang, Ken Watanabe, Michelle Yeoh, Suzuka Ohgo,Drama, Romance            
+ Lilo & Stitch,2002,7.3,PG,85 min,Dean DeBlois, Chris Sanders, Daveigh Chase, Chris Sanders, Tia Carrere, David Ogden Stiers,Animation, Adventure, Comedy            
+ Chocolat,2000,7.3,PG-13,121 min,Lasse Hallström, Juliette Binoche, Johnny Depp, Judi Dench, Alfred Molina,Drama, Romance            
+ Tarzan,1999,7.3,G,88 min,Chris Buck, Kevin Lima, Tony Goldwyn, Minnie Driver, Brian Blessed, Glenn Close,Animation, Adventure, Comedy            
+ Coach Carter,2005,7.3,PG-13,136 min,Thomas Carter, Samuel L. Jackson, Rick Gonzalez, Robert Richard, Rob Brown,Biography, Drama, Sport            
+ The Return of the Living Dead,1985,7.3,R,91 min,Dan OBannon, Clu Gulager, James Karen, Don Calfa, Thom Mathews,Comedy, Horror, Sci-Fi            
+ Clerks II,2006,7.3,R,97 min,Kevin Smith, Brian OHalloran, Jeff Anderson, Rosario Dawson, Jason Mewes,Comedy            
+ Peter Pan,1953,7.3,G,77 min,Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Kinney, Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson,Animation, Adventure, Family            
+ Lady and the Tramp,1955,7.3,G,76 min,Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Cutting, Barbara Luddy, Larry Roberts, Peggy Lee, Bill Thompson,Animation, Adventure, Comedy            
+ The Simpsons Movie,2007,7.3,PG-13,87 min,David Silverman, Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith,Animation, Adventure, Comedy            
+ Running Scared,2006,7.3,R,122 min,Wayne Kramer, Paul Walker, Cameron Bright, Chazz Palminteri, Vera Farmiga,Action, Crime, Drama            
+ Jesus Christ Superstar,1973,7.3,G,106 min,Norman Jewison, Ted Neeley, Carl Anderson, Yvonne Elliman, Barry Dennen,Drama, History, Musical                   
+ Kingdom of Heaven,2005,7.2,R,144 min,Ridley Scott, Orlando Bloom, Eva Green, Liam Neeson, Martin Hancock,Action, Adventure, Drama            
+ Notting Hill,1999,7.2,PG-13,124 min,Roger Michell, Hugh Grant, Julia Roberts, Richard McCabe, Rhys Ifans,Comedy, Drama, Romance            
+ From Dusk Till Dawn,1996,7.2,R,108 min,Robert Rodriguez, Harvey Keitel, George Clooney, Juliette Lewis, Quentin Tarantino,Action, Crime, Horror            
+ 8 Mile,2002,7.2,R,110 min,Curtis Hanson, Eminem, Brittany Murphy, Kim Basinger, Mekhi Phifer,Drama, Music            
+ King Kong,2005,7.2,PG-13,187 min,Peter Jackson, Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann,Action, Adventure, Drama            
+ The Passion of the Christ,2004,7.2,R,127 min,Mel Gibson, Jim Caviezel, Monica Bellucci, Maia Morgenstern, Christo Jivkov,Drama            
+ The Patriot,2000,7.2,R,165 min,Roland Emmerich, Mel Gibson, Heath Ledger, Joely Richardson, Jason Isaacs,Action, Drama, History            
+ The Descent,2005,7.2,R,99 min,Neil Marshall, Shauna Macdonald, Natalie Mendoza, Alex Reid, Saskia Mulder,Adventure, Horror, Thriller            
+ Natural Born Killers,1994,7.2,R,119 min,Oliver Stone, Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield,Action, Crime, Drama            
+ Chicago,2002,7.2,PG-13,113 min,Rob Marshall, Renée Zellweger, Catherine Zeta-Jones, Richard Gere, Taye Diggs,Comedy, Crime, Musical            
+ The Road (I),I,7.2,R,111 min,John Hillcoat, Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee, Robert Duvall,Drama            
+ The Matrix Reloaded,2003,7.2,R,138 min,Lana Wachowski, Lilly Wachowski, Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving,Action, Sci-Fi            
+ I Am Legend,2007,7.2,PG-13,101 min,Francis Lawrence, Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield,Action, Drama, Sci-Fi            
+ Dr No,1962,7.2,PG,110 min,Terence Young, Sean Connery, Ursula Andress, Bernard Lee, Joseph Wiseman,Action, Adventure, Thriller            
+ Insomnia,2002,7.2,R,118 min,Christopher Nolan, Al Pacino, Robin Williams, Hilary Swank, Martin Donovan,Drama, Mystery, Thriller            
+ Cube,1997,7.2,R,90 min,Vincenzo Natali, Nicole de Boer, Maurice Dean Wint, David Hewlett, Andrew Miller,Drama, Horror, Mystery            
+ Team America: World Police,2004,7.2,R,98 min,Trey Parker, Trey Parker, Matt Stone, Elle Russ, Kristen Miller,Action, Comedy            
+ The Bank Job,2008,7.2,R,111 min,Roger Donaldson, Jason Statham, Saffron Burrows, Stephen Campbell Moore, Daniel Mays,Crime, Drama, Thriller            
+ Lethal Weapon 2,1989,7.2,R,114 min,Richard Donner, Mel Gibson, Danny Glover, Joe Pesci, Patsy Kensit,Action, Crime, Thriller            
+ The Fox and the Hound,1981,7.2,G,83 min,Ted Berman, Richard Rich, Art Stevens, David Hand, Wolfgang Reitherman, Mickey Rooney, Kurt Russell, Pearl Bailey, Jack Albertson,Animation, Adventure, Drama            
+ The Great Mouse Detective,1986,7.2,G,74 min,Ron Clements, Burny Mattinson, David Michener, John Musker, Vincent Price, Barrie Ingham, Val Bettin, Susanne Pollatschek,Animation, Adventure, Family            
+ Dumbo,1941,7.2,G,64 min,Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte, Sterling Holloway, Edward Brophy, Herman Bing, Billy Bletcher,Animation, Adventure, Drama            
+ About Schmidt,2002,7.2,R,125 min,Alexander Payne, Jack Nicholson, Hope Davis, Dermot Mulroney, Kathy Bates,Drama            
+ Glory Road,2006,7.2,PG,118 min,James Gartner, Josh Lucas, Derek Luke, Austin Nichols, Jon Voight,Biography, Drama, Sport            
+ Che: Part One,2008,7.2,Not Rated,134 min,Steven Soderbergh, Julia Ormond, Benicio Del Toro, Oscar Isaac, Pablo Guevara,Biography, Drama, History            
+ Final Fantasy VII: Advent Children,2005,7.2,PG-13,101 min,Tetsuya Nomura, Takeshi Nozue, Takahiro Sakurai, Ayumi Ito, Shôtarô Morikubo, Maaya Sakamoto,Animation, Action, Adventure            
+ The Mummy,1999,7.1,PG-13,124 min,Stephen Sommers, Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo,Action, Adventure, Fantasy            
+ The Mist,2007,7.1,R,126 min,Frank Darabont, Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher,
+Horror, Sci-Fi, Thriller            

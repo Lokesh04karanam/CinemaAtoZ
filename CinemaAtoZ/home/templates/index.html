@@ -1,0 +1,95 @@
+{% load static %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+<title>CinemaAtoZ</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="{% static 'screen.css' %}" type="text/css" rel="stylesheet" media="screen,projection" />
+</head>
+<body>
+<div id="layout">
+  <div id="header">
+    <h1 id="logo">Cinema A to Z</h1>
+    <span id="slogan">Every movie You want to know about</span>
+    <hr class="noscreen" />
+    <div id="quicknav"> <a href="/home">Home</a> <a href="/home/login/">Login</a> </div>
+    <div id="search">
+      <form action="search/" method="post">
+        {% csrf_token %}
+        <input name="sea"><input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+  <hr class="noscreen" />
+  <div id="nav" class="box">
+    <ul>
+      <li id="active"><a href="/home">Movies</a></li>
+      <li><a href="/home/wishlist">Wishlist</a></li>
+      <li><a href="/home/watched/">Watched</a></li>
+      <li><a href="/home/favourites/">Favourites</a></li>
+    </ul>
+    <hr class="noscreen" />
+  </div>
+  <div id="container" class="box">
+    <div id="obsah" class="content box">
+      <div class="in">
+        <br>
+        {% get_static_prefix as STATIC_URL %}
+        {% for x in mymembers %}
+        <div id="new-article">
+          <div id="corner">
+            <h2>{{x.Title}}</a></h2>
+            <div class="f-left article-img"><img style="height:115px ;width: 136px; " src="{{ STATIC_URL }}/img/{{x.ido}}.jpg" alt="" />
+              <div></div>
+            </div>
+            <p class="f-left"> <strong>Rating:</strong> {{x.Rating}}<br><strong>IMDb Rating:</strong> {{x.IMDb_Rating}}  <strong>Tomatometer:</strong> {{x.Rott_Rating}}  <strong>Metascore:</strong> {{x.Meta_Rating}}<br><strong>Year of Release:</strong> {{x.Year}}<br><strong>Language:</strong> English<br><strong>Cast:</strong> {{x.Cast}} <br><strong>Genre: </strong>{{x.Genre}}<br><strong>Plot:</strong> {{x.Plot}}<br><strong>Similar Movies:</strong>{{x.similar}}<br><strong>Review:</strong> {{x.review}}<br><a href="like/{{x.id}}" class="more">Like it?</a><a href="watch/{{x.id}}" class="more">Watched it?</a><a href="wish/{{x.id}}" class="more">Wishlist</a></p>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <br>
+        {% endfor %}
+         </div>
+    </div>
+    <div id="panel-right" class="box panel">
+      <div id="bottom">
+        <div class="in"> <strong class="title">About Us</strong>
+          <div class="f-left about-img"><img src="{% static 'about.jpg' %}" alt="" />
+            <div></div>
+          </div>
+          <p class="f-left about-me"> <em>Team SSk</em>Lokesh<br>Lakshmi Teja<br> Sanjeev</p>
+          <div class="clear"></div>
+          <br />
+          {% for message in messages %}
+    <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+        <strong>Message:</strong>{{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true"&times;></span>
+        </button>
+    </div>
+    {% endfor %}
+
+    {% if user.is_authenticated %}
+    <h3>Hello {{ user.get_username }}</h3>
+    <h4>You are successfully logged in </h4>
+    <button type="submit"><a href="/home/signout/"> SignOut</a></button>
+    {% else %}
+
+    <button type="submit"> <a href="/home/signup/"> SignUp</a></button>
+    <button type="submit"><a href="/home/signin/"> SignIn</a></button>
+    
+    {% endif %}
+    <script src="" async defer></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <div id="foot">
+    <div id="page-bottom"> <a href="#header">Go up</a> </div>
+    <p class="f-left">&copy; 2008-SimpleEvent</p>
+    <p class="f-right"><strong>Team SSK</strong></p>
+  </div>
+</div>
+</body>
+</html>
